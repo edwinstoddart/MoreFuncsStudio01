@@ -16,6 +16,6 @@ let nums3 = [200, 5, 4, 10, 8, 5, -3.3, 4.4, 0];
 
 //Using one of the test arrays as the argument, call your function inside the console.log statement below.
 
-console.log(minimumValue(nums1));
-console.log(minimumValue(nums2));
-console.log(minimumValue(nums3));
+console.log(findMinimumValue(nums1));
+console.log(findMinimumValue(nums2));
+console.log(findMinimumValue(nums3));
